@@ -20,7 +20,7 @@
     "bluebird": "3.7.2",
     "docopt": "0.6.2",
     "github": "14.0.0",
-    "js-yaml": "3.14.1",
+    "js-yaml": "4.1.0",
     "mkdirp": "1.0.4",
     "openpgp": "4.10.10",
     "request": "2.88.2",
